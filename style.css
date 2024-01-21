@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #ffa12c;
+    background: #dea6ff;
 }
 
 .container {
@@ -39,7 +39,7 @@ h1 {
 }
 
 hr {
-    border-top: 2px solid #ffa12c;
+    border-top: 2px solid #dea6ff;
 }
 
 p {
@@ -81,7 +81,7 @@ button {
     cursor: pointer;
     margin-top: 20px;
     border-radius: 5px;
-    background: #ffa12c;
+    background: #dea6ff;
 }
 
 button:hover {
